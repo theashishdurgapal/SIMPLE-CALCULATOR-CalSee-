@@ -34,7 +34,7 @@ body{
 .calculator span
 {
     display :grid;
-    width: 100px;
+    width: 80px;
     height: 60px;
     color: #fff;
     background : #0c2835;
@@ -48,7 +48,7 @@ body{
 .calculator span.clear
 {
     grid-column: span 2;
-    width : 180px;
+    width : 160px;
     background: #ff3077;
 }
 .calculator span.plus
